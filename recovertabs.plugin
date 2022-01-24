@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python3
+Module=recovertabs
+IAge=3
+Name=Recover Tabs
+Description=Recover tabs across all windows after a crash or computer restart.
+Authors=Eduardo Steinhorst <steinhorst@gmail.com>
+Copyright=Copyright © 2022 Eduardo Steinhorst
+Website=https://github.com/edusteinhorst/gedit-recover-tabs
+Version=1.0.0
+
